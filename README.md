@@ -2,7 +2,6 @@
 
 Design UI, below
 <br><br>
-DEADLINE: `28 Nov, 2021 10:00 A.M` <br>
 <img src="./task.png">
 
 <br>
@@ -16,4 +15,4 @@ DEADLINE: `28 Nov, 2021 10:00 A.M` <br>
 4. You can choose different color combinations as you wish so ( Dark, blueLight, semi-dark)<br>
 
 <br><br>
-Source: [ demo ](https://www.figma.com/file/WyrY6XRfLO3WzmHhmj9nkc/Calculator?node-id=0%3A1)
+Source: [ demo ](https://sarvar-nematullayev.netlify.app/)
